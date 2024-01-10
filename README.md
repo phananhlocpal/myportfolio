@@ -1,1 +1,3 @@
 # myportfolio
+HTML, CSS, Javascript
+
